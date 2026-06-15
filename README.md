@@ -2,7 +2,7 @@
 
 
 
-two real business problems for an e-commerce company:
+Two real business problems for an e-commerce company:
 
 1. Customer Segmentation (Who are our customers?)
 
