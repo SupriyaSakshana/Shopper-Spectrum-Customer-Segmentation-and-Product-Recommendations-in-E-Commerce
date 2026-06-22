@@ -2,6 +2,11 @@
 
 
 
+<img width="901" height="338" alt="image" src="https://github.com/user-attachments/assets/7b9a15f4-08a8-4805-8049-321fe29c727b" />
+
+
+
+
 Two real business problems for an e-commerce company:
 
 1. Customer Segmentation (Who are our customers?)
