@@ -97,7 +97,6 @@ Output:
 Segment: High-Value Customer
 What interviewers will expect you to explain
 
-If someone asks, "What did you do in this project?", a good answer would be:
 
 "I analyzed e-commerce transaction data, performed RFM analysis to understand customer behavior, and used K-Means clustering to segment customers into business-friendly groups such as High-Value, Regular, Occasional, and At-Risk customers. Additionally, I built an item-based collaborative filtering recommendation system using cosine similarity to recommend products based on historical purchase patterns. Finally, I deployed both functionalities in a Streamlit application for real-time predictions and recommendations."
 
