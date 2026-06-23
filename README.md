@@ -104,3 +104,6 @@ In short, this project answers two key business questions:
 
 Who are our customers? → Customer Segmentation.
 What should we recommend to them? → Product Recommendation System.
+
+
+https://shopper-spectrum-560404414352.asia-south1.run.app/
