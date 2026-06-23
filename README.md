@@ -5,7 +5,7 @@
 <img width="901" height="338" alt="image" src="https://github.com/user-attachments/assets/7b9a15f4-08a8-4805-8049-321fe29c727b" />
 
 
-
+https://shopper-spectrum-560404414352.asia-south1.run.app/
 
 Two real business problems for an e-commerce company:
 
@@ -106,4 +106,4 @@ Who are our customers? → Customer Segmentation.
 What should we recommend to them? → Product Recommendation System.
 
 
-https://shopper-spectrum-560404414352.asia-south1.run.app/
+
