@@ -5,6 +5,27 @@
 <img width="901" height="338" alt="image" src="https://github.com/user-attachments/assets/7b9a15f4-08a8-4805-8049-321fe29c727b" />
 
 
+
+**Shopper Spectrum – Customer Segmentation and Product Recommendation System**
+
+• Developed an end-to-end e-commerce analytics application using Python, Pandas, NumPy, and Scikit-learn.
+
+• Implemented customer segmentation using the K-Means clustering algorithm to identify distinct customer groups based on purchasing behavior.
+
+• Built a product recommendation engine using cosine similarity to recommend similar products to users.
+
+• Created an interactive web application using Streamlit for customer analysis and product recommendations.
+
+• Managed model serialization using Joblib and Pickle for deployment.
+
+• Containerized the application using Docker and deployed it on Google Cloud Platform (GCP) using Cloud Run.
+
+• Configured cloud deployment, dependency management, and container orchestration to make the application publicly accessible.
+
+**Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Docker, Google Cloud Platform (Cloud Run), Git, Joblib.
+
+
+
 https://shopper-spectrum-560404414352.asia-south1.run.app/
 
 Two real business problems for an e-commerce company:
